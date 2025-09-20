@@ -1,0 +1,22 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.login-box {
+  background: #dff5e1;
+  width: 100%;
+  max-width: 500px;
+  border: 1px solid #8fd19e;
+}
+
+.login-box h2 {
+  font-weight: bold;
+}
+
+.login-box input {
+  border-radius: 6px;
+}
+
+.login-box button {
+  border-radius: 6px;
+}

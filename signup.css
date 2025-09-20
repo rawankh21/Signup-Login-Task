@@ -1,0 +1,18 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.signup-box {
+  background: #e9f1fb;
+  width: 100%;
+  max-width: 500px;
+  border: 1px solid #d0e3f0;
+}
+
+.signup-box h2 {
+  font-weight: bold;
+}
+
+.signup-box input {
+  border-radius: 6px;
+}
