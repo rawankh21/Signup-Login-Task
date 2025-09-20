@@ -58,7 +58,7 @@ if (loginForm) {
 
           localStorage.setItem("currentUser", JSON.stringify(user));
 
-          setTimeout(() => {
+           setTimeout(function () {
             window.location.href = "welcome.html";
           }, 1000);
         } else {
@@ -104,3 +104,4 @@ document.addEventListener("DOMContentLoaded", function () {
   }
   }
 });
+
